@@ -14,5 +14,4 @@ yarn-error.log*
 next-env.d.ts
 
 # Extracted film frames are build artifacts — regenerate with scripts/extract-frames.sh
-public/frames/*
 !public/frames/.gitkeep
